@@ -18,6 +18,6 @@ public class palindrome {
             System.out.println(numm+" is not  a palidrome.");
 
         }
-
+      sc.close();
     }
 }
