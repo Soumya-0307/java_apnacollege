@@ -6,7 +6,7 @@ public class Inbuilt {
    Integer arrays[]={5,8,2,3,9,1};
    Arrays.sort(arrays);
    for(int i=0;i<arrays.length;i++){
-    System.out.print(arrays[i]+" ");
+    System.out.print(arrays[i]+" "); 
    }
    System.out.println();
 
