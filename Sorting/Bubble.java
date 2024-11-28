@@ -36,11 +36,11 @@ public class Bubble {
      System.out.println("enter the array elements");
      for(i=0;i<n;i++){
        array[i]=sc.nextInt();   
-    }
+         }
 
-    Bubbl(array);
-    System.out.println("the sorted elemnts are:");
-    printarray(array);
+          Bubbl(array);
+              System.out.println("the sorted elemnts are:");
+                    printarray(array);
 
 
     sc.close();
