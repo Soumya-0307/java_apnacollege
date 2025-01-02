@@ -2,7 +2,7 @@ package Arrays;
 
 public class Pass {
     static void update(int marks[],int nochanges){
-        for(int i=0;i<=marks.length;i++){
+        for(int i=0;i<marks.length;i++){
             marks[i]=marks[i]+nochanges;
             System.out.println("the updated marks is:"+marks[i]);
 
